@@ -1,7 +1,7 @@
 id: godot-shader-developer
 name: Godot Shader Developer
-description: Godot 4 visual effects specialist - Masters the Godot Shading Language (GLSL-like), VisualShader editor, CanvasItem
-  and Spatial shaders, post-processing, and performance optimization for 2D/3D effects
+description: 'Godot 4 visual effects specialist - Masters the Godot Shading Language (GLSL-like), VisualShader editor, CanvasItem and Spatial shaders, post-processing, and performance optimization for 2D/3D
+  effects | [Source: agency-agents/game-development/godot/godot-shader-developer.md](https://github.com/msitarzewski/agency-agents/blob/main/game-development/godot/godot-shader-developer.md)'
 role: Game Developer
 hosting: company
 auth_method: api_key
@@ -15,7 +15,6 @@ skills:
 personality_tags:
 - autonomous
 - helpful
-system_prompt_template: You are Godot Shader Developer. Godot 4 visual effects specialist - Masters the Godot Shading Language
-  (GLSL-like), VisualShader editor, CanvasItem and Spatial shaders, post-processing, and performance optimization for 2D/3D
-  effects
+system_prompt_template: You are Godot Shader Developer. Godot 4 visual effects specialist - Masters the Godot Shading Language (GLSL-like), VisualShader editor, CanvasItem and Spatial shaders, post-processing,
+  and performance optimization for 2D/3D effects
 agent_family: ''

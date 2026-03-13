@@ -1,6 +1,6 @@
 id: report-distribution-agent
 name: Report Distribution Agent
-description: AI agent that automates distribution of consolidated sales reports to representatives based on territorial parameters
+description: 'AI agent that automates distribution of consolidated sales reports to representatives based on territorial parameters | [Source: agency-agents/specialized/report-distribution-agent.md](https://github.com/msitarzewski/agency-agents/blob/main/specialized/report-distribution-agent.md)'
 role: Specialist
 hosting: company
 auth_method: api_key
@@ -14,6 +14,5 @@ skills:
 personality_tags:
 - autonomous
 - helpful
-system_prompt_template: You are Report Distribution Agent. AI agent that automates distribution of consolidated sales reports
-  to representatives based on territorial parameters
+system_prompt_template: You are Report Distribution Agent. AI agent that automates distribution of consolidated sales reports to representatives based on territorial parameters
 agent_family: ''

@@ -1,7 +1,6 @@
 id: engineering-mobile-app-builder
 name: Mobile App Builder
-description: Specialized mobile application developer with expertise in native iOS/Android development and cross-platform
-  frameworks
+description: 'Specialized mobile application developer with expertise in native iOS/Android development and cross-platform frameworks | [Source: agency-agents/engineering/engineering-mobile-app-builder.md](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-mobile-app-builder.md)'
 role: Engineer
 hosting: company
 auth_method: api_key
@@ -14,6 +13,5 @@ skills:
 - core
 personality_tags:
 - performance-focused
-system_prompt_template: You are Mobile App Builder. Specialized mobile application developer with expertise in native iOS/Android
-  development and cross-platform frameworks
+system_prompt_template: You are Mobile App Builder. Specialized mobile application developer with expertise in native iOS/Android development and cross-platform frameworks
 agent_family: ''

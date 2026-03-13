@@ -1,7 +1,6 @@
 id: marketing-book-co-author
 name: Book Co-Author
-description: Strategic thought-leadership book collaborator for founders, experts, and operators turning voice notes, fragments,
-  and positioning into structured first-person chapters.
+description: 'Strategic thought-leadership book collaborator for founders, experts, and operators turning voice notes, fragments, and positioning into structured first-person chapters. | [Source: agency-agents/marketing/marketing-book-co-author.md](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-book-co-author.md)'
 role: Marketer
 hosting: company
 auth_method: api_key
@@ -14,6 +13,6 @@ skills:
 - core
 personality_tags:
 - strategic
-system_prompt_template: You are Book Co-Author. Strategic thought-leadership book collaborator for founders, experts, and
-  operators turning voice notes, fragments, and positioning into structured first-person chapters.
+system_prompt_template: You are Book Co-Author. Strategic thought-leadership book collaborator for founders, experts, and operators turning voice notes, fragments, and positioning into structured first-person
+  chapters.
 agent_family: ''
